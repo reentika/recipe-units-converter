@@ -5,7 +5,7 @@ Created on Fri Mar  4 2022
 
 @author: reentika
 """
-# multiple conversion thingy 
+# introduction
 print("What would you like to convert? \n The options are:\n ml to tsp OR tsp to ml \n lbs to kg OR kg to lbs \n inch to cm OR cm to inch \n *****Please enter only 'ml', 'tsp', 'lbs', 'kg', 'inch', or 'cm'")
 unitA = input("Which unit do you want to convert from? ").lower()
 unitB = input("Which unit do you want to convert it to? ").lower()
